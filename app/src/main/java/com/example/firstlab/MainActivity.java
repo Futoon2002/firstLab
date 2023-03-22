@@ -12,8 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 033d3e8 (Initial commit)
+//Futoon
 }
